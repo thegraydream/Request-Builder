@@ -14,6 +14,7 @@ An interactive tool that turns copied clipboard info 📋 into executable Python
 1. Run start.bat file.
 2. Follow the prompts to provide request details.
 3. The script will generate a Python file that sends the specified HTTP request when run.
+Here's a [video]([https://www.python.org/downloads/](https://www.youtube.com/watch?v=75CW5S3sRcI)) showing how it works.
 
 ## Installation
 
